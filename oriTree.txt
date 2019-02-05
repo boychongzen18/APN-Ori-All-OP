@@ -1,0 +1,18 @@
+Name     : Tree
+APN      : 3gprs
+proxy    ; kosongkan / tidak perlu di isi
+port     : kosongkan / tidak perlu di isi
+username : 3gprs
+password : 3gprs
+server:kosongkann / tidak perlu di isi
+mmsc :kosongkan / tidak perlu di isi
+mms proxy :kosongkan / tidak perlu di isi
+mms port : :kosongkan / tidak perlu di isi
+mcc : 510
+mnc : 89
+Authentication type : Pap Or Chap
+apn type ; default,supl
+Apn protocol : Ipv4
+apn roaming protocol ; Ipv4
+Bearer :unsepecified
+mvno type : None

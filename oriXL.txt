@@ -1,0 +1,29 @@
+APN XL Unlimited
+
+Nama  : XL
+APN   : xlunlimited
+Proxy : 202.152.240.50
+Port  : 80 / 8080 / 3128
+(untuk yang lainnya kosongkan saja)
+
+APN XL GPRS 4G
+
+Nama  : xlgprs
+APN   : www.xlgprs.net
+Proxy : 72.52.4.120
+Port  : 80
+(Untuk yang lain kosongkan saja)
+
+Nama  : Internet
+APN   : www.xlgprs.com
+Proxy : kosong
+Port  : kosong
+(yang lain juga di kosongkan saja / tidak perlu di setel)
+
+APN Default XL 4G
+
+Nama  : XL GPRS
+APN   : internet
+Proxy : 202.152.240.50
+Port  : 80
+(yang lain tidak perlu di setel)

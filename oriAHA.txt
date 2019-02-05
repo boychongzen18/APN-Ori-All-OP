@@ -1,0 +1,10 @@
+APN AHA
+
+Nama  : AHA
+APN   : aha
+Proxy : 10.7.246.194
+Port  : 80
+Nama Pengguna : kosong
+Kata sandi    : kosong
+Server : 8.8.8.8
+(yang lain tidak perlu di setel)

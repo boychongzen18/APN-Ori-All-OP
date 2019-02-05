@@ -1,0 +1,35 @@
+Telkomsel ( Hallo,, Simpati,,As )
+
+
+Setting GPRS
+
+Profile Name: Telkomsel GPRS
+Data bearer: GPRS
+APN: telkomsel
+Username: wap
+Password: wap123
+Authentication: Normal
+Homepage: http://wap.telkomsel.com
+Gateway IP address: 10.1.89.130
+Port: 8000
+
+Setting MMS
+
+Profile Name : Telkomsel MMS
+Data Bearer : GPRS
+APN: mms
+Username : wap
+Password : wap123
+Homepage : http://mms.telkomsel.com
+Gateway IP address : 10.1.89.150
+Port: 8000
+
+Setting Internet Telkomsel Flash Unlimited
+
+Profile Name : Telkomsel FLASH
+Data Bearer : GPRS
+Access Point Name: telkomsel / internet
+Username : kosongkan
+Password : kosongkan
+Dial Up Number: *99
+
