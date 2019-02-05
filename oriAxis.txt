@@ -1,0 +1,25 @@
+Axis
+
+
+Setting GPRS
+
+Profile Name: Axis GPRS
+APN: axis
+Username: axis
+Password: 123456
+Authentication : Normal
+Homepage: http://wap.axisworld.co.id
+Gateway IP Address: 10.8.3.8
+Port: 8080
+
+Setting MMS
+
+Profile Name: Axis MMS
+APN: axismms
+Username: axis
+Password: 123456
+Authentication : Normal
+Homepage: http://mmsc.AXIS
+Gateway IP Address: 10.8.3.8
+Port: 8080
+
