@@ -18,14 +18,14 @@ Kata sandi : 123456
 (Untuk yang kosongkan / tidak perlu disetel)
 
 APN Axis Unlimited
-Nama : kuotareguler.com
+Nama : tutorial-it.tk
 APN : xlunlimited
 Proxy : kosong
 port : kosong
 (untuk yang lain di kosongkan saja)
 
 APN Axis Untuk Opok (Internet Gratis 0 pulsa 0 kuota)
-Nama : kuotareguler.com
+Nama : tutorial-it.tk
 APN : axisgprs
 Porxy : 10.8.3.8
 Port : 8080
