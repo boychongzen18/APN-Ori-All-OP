@@ -1,0 +1,6 @@
+Operator LIVEON
+
+NAMA : LIVEON
+APN  : live.on
+Username: Tidak perlu diisi
+Password: Tidak perlu diisi
